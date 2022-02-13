@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://github.com/oPerna">
   <img height="170em" width="1000em" src="https://github-readme-stats.vercel.app/api?username=oPerna&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img height="170em" width="900em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oPerna&layout=compact&langs_count=7&theme=material-palenight"/>
+  <img height="170em" width="700em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oPerna&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
 
 ##
